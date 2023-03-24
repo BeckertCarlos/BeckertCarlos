@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="https://cdn.dribbble.com/users/987064/screenshots/6587703/dp42-800x600.gif" alt="42" style="float: left; margin-right: 10px;" width="200">
+  <img src="https://user-images.githubusercontent.com/99505083/227659160-3ce23a03-d207-429e-ab78-27b3a3e00c37.gif" alt="42" style="float: left; margin-right: 10px;" width="200">
   <div style="display: flex; flex-direction: column;">
     <p>Hello, my name's Carlos, I am a undergraduate student at UFSC. I started my programming journey with C and C++, but I left the brackets and semicolons aside when I discovered Python.</p>
     <div style="display: flex; justify-content: center;">
@@ -9,3 +9,4 @@
     </div>
   </div>
 </div>
+
